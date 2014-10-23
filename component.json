@@ -1,0 +1,19 @@
+{
+  "logo": "info users gazelle",
+  "name": "end",
+  "repo": "logo/end",
+  "description": "The info users gazelle logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
